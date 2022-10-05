@@ -1,1 +1,1 @@
-var audio = new Audio('audio_file.wav');
+var audio = new Audio('beep.wav');
