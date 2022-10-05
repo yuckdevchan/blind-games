@@ -1,4 +1,5 @@
 function sound() {
   var audio = new Audio('beep.wav');
 }
-button1.onclick = sound();
+
+.button1.onclick = sound();
